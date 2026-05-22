@@ -39,6 +39,7 @@ This montage is designed for occipital and parietal-occipital EEG experiments, i
 |---|---|---|
 | [eeg-workstation](https://github.com/Neuradock/eeg-workstation) | Main project overview and repository navigation | Public |
 | [eeg-workstation-docs](https://github.com/Neuradock/eeg-workstation-docs) | Documentation, getting started guides, data format, FAQ, troubleshooting, and hardware interface notes | Preparing |
+| [eeg-workstation-software](https://github.com/Neuradock/eeg-workstation-software) | NeuraDock Recording Software releases and software usage notes | Preparing |
 | [eeg-workstation-python](https://github.com/Neuradock/eeg-workstation-python) | Python tools, notebooks, and EEG data reading examples | Preparing |
 | [eeg-workstation-agent](https://github.com/Neuradock/eeg-workstation-agent) | EEG Agent workflows, prompts, and analysis pipelines | Preparing |
 | [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples) | Example EEG demos, including eyes-open/closed, PSD, band power, SSVEP, cVEP, signal quality, and real-time marker workflows | Preparing |
