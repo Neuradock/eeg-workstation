@@ -148,7 +148,7 @@ NeuraDock EEG Workstation is intended for research and development use cases suc
 - Crowd Supply: [NeuraDock EEG Workstation](https://www.crowdsupply.com/neuradock/neuradock-eeg-workstation)
 - Documentation: [eeg-workstation-docs](https://github.com/Neuradock/eeg-workstation-docs)
 - YouTube: [@NeuraDock](https://www.youtube.com/@NeuraDock)
-- Discord: NeuraDock Community
+- Discord: [NeuraDock Community](https://discord.gg/YdQp8puZjz)
 
 ## License
 
