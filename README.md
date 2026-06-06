@@ -61,7 +61,6 @@ Recommended starting points:
 - Documentation: [eeg-workstation-docs](https://github.com/Neuradock/eeg-workstation-docs)
 - Python examples: [eeg-workstation-python](https://github.com/Neuradock/eeg-workstation-python)
 - Example workflows: [eeg-workstation-examples](https://github.com/Neuradock/eeg-workstation-examples)
-- Agent workflows: [eeg-workstation-agent](https://github.com/Neuradock/eeg-workstation-agent)
 - Sample data: [eeg-workstation-sample-data](https://github.com/Neuradock/eeg-workstation-sample-data)
 - Hardware interface notes: [eeg-workstation-hardware](https://github.com/Neuradock/eeg-workstation-hardware)
 
