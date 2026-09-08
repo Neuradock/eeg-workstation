@@ -46,6 +46,14 @@ This montage is designed for occipital and parietal-occipital EEG experiments, i
 | [eeg-workstation-data](https://github.com/Neuradock/eeg-workstation-data) | Public sample EEG datasets for tutorials and examples | Public |
 | [eeg-workstation-hardware](https://github.com/Neuradock/eeg-workstation-hardware) | Hardware interface and port specifications for third-party integration | Public |
 
+## Develop with Kimi Code
+
+The [NeuraDock EEG Skill for Kimi](https://github.com/Neuradock/eeg-workstation-agent/tree/main/integrations/kimi)
+provides EEG development guidance and local parsing, quality checks, and Alpha
+analysis scripts. The integration includes installation instructions and
+[downloadable ZIP / .skill packages](https://github.com/Neuradock/eeg-workstation-agent/tree/main/integrations/kimi/downloads).
+Start with simulation or public-data replay before connecting hardware.
+
 ## Getting Started
 
 If you are new to NeuraDock EEG Workstation, we recommend starting in this order:
